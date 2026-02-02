@@ -1,0 +1,27 @@
+> [!abstract]
+> Para ilmuwan telah mendeteksi supernova terjauh yang pernah dilihat, yang meledak ketika alam semesta berusia kurang dari satu miliar tahun. Peristiwa ini pertama kali ditandai oleh semburan sinar gamma dan kemudian dikonfirmasi menggunakan Teleskop Luar Angkasa James Webb, yang mampu mengisolasi ledakan dari galaksi induknya yang redup. Yang mengejutkan, ledakan tersebut sangat mirip dengan supernova yang terkait dengan sumberan sinar gamma di alam semesta modern.
+
+> [!info]
+> Para astronom dari seluruh dunia telah mencapai tonggak penting dalam mempelajari alam semesta awal. Menggunakan Teleskop Luar Angkasa James Webb (JWST), mereka mengidentifikasi sebuah supernova, yaitu kematian eksplosif sebuah bintang masif, para jarak yang belum pernah diamati sebelumnya.
+
+Ledakan tersebut, yang dikenal sebagai SN dalam GRB 250314A, terjadi ketika alam semesta baru berusia sekitar 730 juta tahun. Ini menempatkannya dengan tepat dalam era reionisasi, periode ketika bintang dan galaksi pertama mulai muncul. Pengamatan ini menawarkan pandangan langka dan langsung tentang bagaimana bintang-bintang masif mengakhiri hidup mereka selama tahap pembentukan sejarah kosmik ini.
+
+#### Semburan Sinar Gamma Memimpin Jalan
+Penemuan ini pertama kali dilaporkan dalam makalah akademis 'JWST menungkapkan supernova setelah semburan sinar gamma pada z ≃ 7,3' (Astronomy & Astrophysics, 704, Desember 2025). Peristiwa ini awalnya menarik perhatian sekalian kilatan radiasi berenergi tinggi yang kuat, yang disebut Semburan Sinar Gamma (GRB) berdurasi panjang, terdeteksi pada 14 Maret 2025 oleh monitor objek variabel astronomi multi-band berbasis ruang angkasa (SVOM). Para astronom kemudian menggunakan Teleskop Sangat Besar (Very Large Telescope/VLT) milik European Southerm Observatory (ESO) untuk mengkonfirmasi bahwa sumber tersebut terletak pada jarak yang sangat jauh. <br>
+#### JWST Memisahkan Ledakan dan Galaksi Induknya
+Pengamatan yang menentukan muncul sekitar 110 hari setelah ledakan, ketika JWST membidik wilayah tersebut menggunakan Kamera Inframerah Dekat (NIRCAM). Gambar-gambar ini memungkinkan para peneliti untuk mengisolasi cahaya supernova yang memudar dari cahaya yang jauh lebih redup dari galaksi induknya, sebuah langkah penting dalam mengkonfirmasi sifat ledakan tersebut. <br>
+Penulis bersama dan astrofisikawan dari Sekolah Fisika UCD, Dr. Antonio Martin Carrillo, menjelaskan pentingnya temuan tersebut. "Pengamatan kunci, atau bukti kuat, yang menghubungkan kematian bintang-bintang masif dengan semburan sinar gamma adalah penemuan supernova yang muncul di lokasi langit yang sama. Hampir setiap supernova yang pernah dipelajari relatif dekat dengan kita, dengan hanya beberapa pengecualian hingga saat ini. Ketika kami mengkonfirmasi usia supernova ini, kami melihat peluang unik untuk menyelidiki bagaimana alam semesta ada dan jenis bintang apa yang ada dan mati pada saat itu." <br>
+> [!important]
+> "Dengan menggunakan model yang didasarkan pada populasi supernova yang terkait dengan GRB di alam semesta lokal kita, kita membuat beberapa prediksi tentang seperti apa emisi yang seharusnya terjadi dan menggunakannya untuk mengusulkan pengamatan baru dengan Teleskop Luar Angkasa James Webb. Yang mengejutkan kami, model kami bekerja dengan sangat baik dan supernova yang diamati tempaknya sangat cocok dengan kematian bintang yang kita lihat secara teratur. Kami juga dapat melihat sekilas galaksi yang menjadi tampat bintang yang sekarat ini berada."
+
+#### Ledakan yang Tak Terduga dan Terasa Familiar
+Pengukuran menunjukkan bahwa supernova yang jauh ini sangat mirip dengan kecerahan dan fitur spektral SN 1998bw, sebuah supernova terkenal yang terkait dengan semburan sinar gamma yang meledak jauh lebih dekat ke bumi. Kemiripan ii menunjukkan bahwa bintang di balik GRB 250314A tidak jauh berbeda dari bintang-bintang masif yang menghasilkan ledakan serupa di alam semesta terdekat. <br>
+Meskipun terbentuk di lingkungan dengan kondisi yang sangat berbeda, termasuk metalisitas yang jauh lebih rendah, bintang tersebut tampaknya mati dengan cara yang lazim. Data tersebut juga menyingkirkan kemungkinan ledakan yang jauh lebih terang, seperti Supernova Superluminous (SLSN). <br>
+#### Menelaah Kembali Generasi Pertama Bintang-Bintang
+Hasil ini menantang gagasan yang telah lama dipegang bahwa bintang-bintang paling awal akan menghasilkan ledakan yang jauh lebih terang atau lebih biru daripada yang terlihat saat ini. Sebaliknya, temuan ini menunjukkan konsistensi yang mengejutkan dalam bagaimana bintang-bintang masif mengakhiri hidup mereka sepanjang waktu kosmik. <br>
+Meskipun penemuan ini memberikan titik acuan penting untuk memahami evolusi bintang di alam semesta awal, hal ini juga menimbulkan pertanyaan baru tentang mengapa ledakan-ledakan ini tampak begitu seragam. <br>
+Tim tersebut berencana untuk melakukan putaran pengamatan JWST lainnya dalam satu hingga dua tahun ke depan. Pada saat itu, supernova tersebut seharusnya telah meredup lebih dari dua magnitudo, sehingga lebih mudah untuk mempelajari galaksi induk yang redup secara menyeluruh dan memastikan secara tepat berapa banyak cahaya yang berasal dari supernova itu sendiri.
+
+> [!info]
+> ### Sumber Referensi
+> UCD Research & Innovation. (2025, December 28). Most distant supernova: James Webb sees a star explode at cosmic dawn. _ScienceDaily_. Retrieved February 1, 2026 from www.sciencedaily.com/releases/2025/12/251228074453.htm
