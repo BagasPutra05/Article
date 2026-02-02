@@ -1,0 +1,15 @@
+# Para astronom menyaksikan bintang neutron yang tertidur kembali berkobar
+
+> [!summary]
+> Para astronom melacak perubahan dramatis selama satu dekade pada P13, sebuah bintang neutron yang mengamali akresi superkritis. Luminositas sinar-X nya naik dan turun ratusan kali lipat sementara laju rotasinya meningkat. Pergeseran yang sinkron ini menunjukkan bahwa struktur akresi itu sendiri berevolusi dari waktu ke waktu. Temuan ini menawarkan petunjuk baru tentang bagaimana sumber sinar-X ultra terang mencapai daya yang sangat besar.
+
+
+> [!info]
+> Ketika gas jatuh ke objek kompak, seperti bintang neutron atau lubang hitam, karena gravitasinya yang kuat porses yang disebut akresi, gas tersebut memancarkan gelombang elektromagnetik. Pengamatan dengan sensitivitas tinggi telah menemukan objek dengan luminositas sinar-X yang sangat tinggi. Salah satu penjelasan yang mungkin untuk ultraluminositas tersebut adalah bahwa sejumlah besar gas jatuh ke objek kompak melalui proses yang disebut akresi superkritis. Namun, mekanisme akresi superkritis masih belum jelas.
+
+Tim peneliti berfokus pada NGC 7793 P13 (selanjutnya disebut P13), yaitu bintang neutron dalam akresi superkritis, yang terletak di galaksi NGC 7793 (sekitar 10 juta tahun cahaya dari bumi). Saat gas jatuh ke bintang neutron, gas tersebut membentuk struktur kolom (disebut kolom akresi) pada kutub magnet, yang diperkirakan memancarkan sinar-X yang intens. Kemudian, pulsasi sinar-X koheren yang disertai dengan rotasi bintang neutron dapat dideteksi. Menurut penelitian sebelumnya, P13 berputar dengan periode 0,4 detik dengan laju percepatan konstan. Selain itu, luminositas berubah lebih dari dua orde magnitudo dalam waktu sekitar 10 tahun. Baik kecepatan rotasi maupun luminositas merupakan parameter yang efektif untuk memperkirakan jumlah gas yang terakresi. Namun, hubungan antara keduanya tidak ditemukan untuk P13. <br>
+Tim peneliti menyelidiki evolusi jangka panjang luminositas sinar-X dan periode rotasi P13 dari tahun 2011 hingga 2024, menggunakan data arsip XMM-Newton, Chandra, NuSTAR, dan NICER. Ditemukan bahwa P13 berada dalam fase redup pada tahun 2021 dan mulai kembali terang pada tahun 2022. Pada tahun 2024, ia mencapai luminositas tinggi, lebih dari dua orde magnitudo lebih tinggi daripada tahun 2021. Selain itu, dalam fase peningkatan kecerahan pada tahun 2022, laju percepatan kecepatan rotasi meningkat dua kali lipat, dan dipertahankan hingga tahun 2024. Hasil ini menunjukkan adanya hubungan antara luminositas sinar-X dan kecepatan rotasi, dan bahwa sistem akresi berubah selama fase redup. Tim peneliti kemudian fokus pada pulsasi dan melakukan analisis terperinci. Disarankan bahwa ketinggian kolom akresi berubah dengan modulasi fluks 10 tahun. Hasil tersebut diharapkan dapat menjadi petunjuk utnuk mengungkap mekanisme akresi superkritis.
+
+> [!info] 
+> ## Sumber Referensi
+> Ehime University. (2025, December 14). Astronomers watched a sleeping neutron star roar back to life. _ScienceDaily_. Retrieved February 1, 2026 from www.sciencedaily.com/releases/2025/12/251213032610.htm

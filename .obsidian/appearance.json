@@ -1,0 +1,15 @@
+{
+  "enabledCssSnippets": [
+    "custom-rainbow-colors",
+    "extended-colorschemes",
+    "Notebook Backgrounds",
+    "headers",
+    "Colored Sidebar Items"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "textFontFamily": "BBC Reith Serif",
+  "interfaceFontFamily": "BBC Reith Serif",
+  "baseFontSize": 16,
+  "nativeMenus": false
+}
