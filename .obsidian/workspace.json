@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Space_&_Time/Astronomy/Black Holes/006 Cardiff University.md",
+                "file": "01 Space_&_Time/Astronomy/Black Holes/007 European Space Agency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006 Cardiff University"
+              "title": "007 European Space Agency"
             }
           }
         ]
@@ -162,13 +162,23 @@
               "icon": "lucide-list",
               "title": "Kerangka"
             }
+          },
+          {
+            "id": "5abc172131ef3258",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +189,14 @@
       "templates:Masukkan template": false,
       "command-palette:Buka palet perintah": false,
       "bases:Create new base": false,
-      "iconic:Buka buku aturan": false
+      "iconic:Buka buku aturan": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fd69983354ef334c",
   "lastOpenFiles": [
     "01 Space_&_Time/Astronomy/Black Holes/006 Cardiff University.md",
+    "01 Space_&_Time/Astronomy/Black Holes/007 European Space Agency.md",
     "01 Space_&_Time/Astronomy/Black Holes/005 Ehime University.md",
     "01 Space_&_Time/Astronomy/Black Holes/004 Royal Astronomical Society.md",
     "01 Space_&_Time/Astronomy/Black Holes/002 UCD Research & Innovation.md",

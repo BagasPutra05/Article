@@ -1,0 +1,13 @@
+# Para astronom berhasil mengabadikan ledakan mendadak lubang hitam yang memancarkan angin berkecepatan sangat tinggi
+> [!summary]
+> Semburan sinar-X tiba-tiba dari lubang hitam supermasif di galaksi NGC 3783 memicu angin ultra-cepat yang melesat keluar dengan kecepatan seperlima kecepatan cahaya - suatu peristiwa yang belum pernah disaksikan sebelumnya. Menggunakan XMM-Newton dan XRISM, para astronom mengangkap ledakan tersebut secara langsung, mengungkap bagaimana medan magnet yang kusut dapat dengan cepat "terurai" dan melontarkan materi ke luar angkasa, mirip dengan versi kosmik yang sangat besar dari pelepasan massa koronal Matahari.
+
+> [!info]
+> Observatorium sinar-X terkemuka XMM-Newton dan XRISM telah menangkap letusan luar biasa dan belum pernah tercatat sebelumnya dari lubang hitam supermasif. Hanya dalam beberapa jam, gravitasi intens dari objek ini mengaduk angin yang sangat cepat yang mendorong material keluar dengan kecepatan mencengangkan 60.000 km per detik.
+
+Lubang hitam raksasa ini terletak di NGC 3783, sebuah galaksi spiral menabjukkan yang baru-baru ini difoto oleh Teleskop Luar Angkasa Hubble NASA/ESA. Para astronom mengamati semburan sinar-X terang yang keluar dari lubang hitam dan langsung meredup. Saat semburan mereda, angin bekecepatan tinggi muncul, melesat keluar dengan kecepatan sekitar seperlima kecepatan cahaya. <br>
+"Kami belum pernah menyaksikan lubang hitam menciptakan angin secepat ini sebelumnya," kata peneliti utama Liyi Gu di Orgnaisasi Penelitian Antariksa Belanda (SRON). "Untuk pertama kalinya, kami melihat bagaimana semburan sinar-X yang cepat dari lubang hitam langsung memicu angin ultra-cepat, dengan angin ini terbentuk hanya dalam satu hari" <br>
+#### Di Dalam Inti Galaksi Aktif
+Untuk menyelidiki NGC 3783 dan lubang hitam pusatnya, Gu dan timnya menggunakan XMM-Newton milik Badan Antariksa Eropa bersama dengan Misi Penciptraan dan Spektroskopi Sinar-X (XRISM), sebuah misi yang dipimpin oleh JAXA dengan partisipasi ESA dan NASA <br>
+Lubang hitam, yang memiliki massa sekitar 30 juta Matahari, mengonsumsi gas dan debu di sekitarnya. Aktifitas ini memberi daya pada zona yang sangat terang dan energik di pusat galaksi yang disebut Inti Galaksi Aktif (Active Galactic Nucleus/AGN). AGN memancarkan cahaya di seluruh spektrum elektromagnetik dan dapat mendorong pancaran dan angin yang kuat ke sekitarnya. <br>
+"Angin di sekitar lubang hitam ini tampaknya tercipta ketika medan magnet AGN yang kusut tiba-tiba 'terurai' - mirip dengan semburan yang meletus dari Matahari, tetapi ketika dalam skala yang hampir terlalu besar untuk dibayangkan." 

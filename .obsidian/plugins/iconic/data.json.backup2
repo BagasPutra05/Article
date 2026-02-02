@@ -15,7 +15,7 @@
   "biggerSearchResults": "mobile",
   "maxSearchResults": 50,
   "colorPicker1": "list",
-  "colorPicker2": "list",
+  "colorPicker2": "rgb",
   "uncolorHover": false,
   "uncolorDrag": false,
   "uncolorSelect": false,
@@ -24,7 +24,7 @@
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": true,
+    "emojiMode": false,
     "rulePage": "file"
   },
   "appIcons": {},
@@ -34,19 +34,6 @@
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [
-    {
-      "id": "oMXPJ",
-      "name": "Aturan tanpa judul",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "name",
-          "operator": "contains"
-        }
-      ],
-      "enabled": true
-    }
-  ],
+  "fileRules": [],
   "folderRules": []
 }
