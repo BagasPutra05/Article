@@ -1,0 +1,12 @@
+---
+aliases: [Mengubah masyarakat kita melalui teknologi pendingin udara pintar berbasis AI]
+---
+
+> [!info]
+> Penelitian empiris sedang dilakukan untuk teknolog pendingin udara revolusioner yang akan berkontribusi dalam memecahkan masalah lingkungan. Di garis depan upaya ini adalah NAGAHIRO Tsuyoshi, profesor proyek dan direktur pusat kolaborasi sistem teknologi cerdas di markas besar promosi netralitas karbon. Sistem pendingin udara yang ditingkatkan dengan kecerdasan buatan (AI), atau "Pendingin udara cerdas AI", sedang diintegrasikan di fasilitas yang menggunakan sejumlah besar energi untuk pemanasa dan pendinginan, seperti bandara dan pusat perbelanjaan, dan telah mencapai hasil penghematan energi yang signifikan. Kami duduk bersama Nagahiro, yang terlibat dalam berbagai hal mulai dari kolaborasi perusahaan hingga perusahaan rintisan an pendidikan praktis untuk mempromosikan implementasi sosial, untuk mendengar lebih banyak tentang penelitiannya saat ini dan prospek masa depannya.
+
+## Sistem pendingin udara prediktif berdasarkan pergerakan orang.
+**Teknologi pendingin udara pintar berbasis AI itu jenis apa?**
+**Nagahiro:** Salah satu karakteristik paling signifikan dari pendingin udara pintar berbasis AI yang sedang kami teliti adalah kemampuan untuk "melihat" pergerakan orang. Umumnya, pendingin udara konvensional mengatur suhu suatu tempat tetap sama terlepas dari ada orang di sana atau tidak, tanpa memperhitungkan pergerakan orang-orang tersebut, yang menyebabkan pemborosan energi yang besar. Di sisi lain, sistem yang telah kami kembangkan bertujuan untuk mengukur pergerakan orang di dalam suatu fasilitas agar tempat-tempat yang dihuni orang menjadi nyaman.
+
+Salah satu karakteristik lainnya adalah bagaimana sistem ini menggunakan kembali udara berdasarkan suhu dan distribusi kelembapan di suatu area. Di area mana pun dalam satu fasilitas, terdapat perbedaan suhu antara lantai dan langit-langit. Dan di supermarket, misalnya, udara di depan bagian makanan beku lebih dingin daripada di tempat lain. Musim dan kondisi cuaca juga dapat menyebabkan perubahan suhu. Perbedaan suhu ini dideteksi oleh sensor, yang kemudian menyediakan pendingin udara dengan pengotrol udara mana yang akan digunakan kembali dan mana yang akan dibuang. Kami telah memperoleh paten untuk sistem ini.
