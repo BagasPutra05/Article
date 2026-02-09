@@ -9,6 +9,10 @@ body {
 
 }
 
+.app-container {
+  background-color: rgba(0, 0, 0, 0.1); /* 0.5 adalah tingkat opacity (0-1) */
+}
+
 .markdown-preview-view p {
 	text-align: justify;
 	text-justify: inter-word;	

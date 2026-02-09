@@ -2,6 +2,8 @@
 aliases:
   - Mengapa kanker kolorektal melanggar aturan sistem kekebalan tubuh
 ---
+#cancer #kesehatan
+
 Kanker kolorektal menunjukkan pola yang  berbeda dibandingkan tumor padat lainnya, di mana  jumlah sel T regulator (Treg) yang lebih banyak justru dikaitkan dengan kelangsungan hidup yang lebih lama. Penelitian dari SKI  mengungkaap bahwa ada dua subtipe Treg yang memiliki peran berlawanan: satu menahan pertumbuhan tumor, sementara yang lain memicunya. Temuan ini menunjukkan pentingnya memahami jenis Treg dalam mengembangkan imunoterapi yang lebih efektif untuk pasien kanker kolorektal  dan kanker lain yang berhubungan dengan  jaringan tertentu.
 
 **Penelitian selama beberapa dekade menghasilkan terobosan**

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "024362cc1d67a625",
+        "id": "81487bb55eaed776",
         "type": "tabs",
         "children": [
           {
-            "id": "49dec0498bd5d14e",
+            "id": "f46d77e3d1439c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Inbox/001 - MSKCC.md",
+                "file": "001 Inbox/001 - AHA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 - MSKCC"
+              "title": "001 - AHA"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 298,
+    "collapsed": true
   },
   "right": {
     "id": "d1e2e981583201f4",
@@ -203,10 +204,20 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "78261aa3039724ff",
+  "active": "5abc172131ef3258",
   "lastOpenFiles": [
+    "002 Artikel/Kesehatan/Nutrisi/001 - UOC.md",
+    "002 Artikel/Kesehatan/Demensia/001 - LU.md",
+    "002 Artikel/Kesehatan/Cold&Flu/001 - WUM.md",
+    "002 Artikel/Kesehatan/Kesehatan.md",
+    "001 Inbox/001 - AHA.md",
+    "002 Artikel/Kesehatan/Cancer/001 - MSKCC.md",
+    "002 Artikel/Kesehatan/Demensia",
+    "002 Artikel/Kesehatan/Nutrisi",
+    "002 Artikel/Kesehatan/Cold&Flu",
+    "002 Artikel/Kesehatan/Cancer",
+    "002 Artikel/Kesehatan",
     "002 Artikel",
-    "001 Inbox/001 - MSKCC.md",
     "001 Inbox",
     "001 Inbox/001 - Bagaimana hutan saling berkomunikasi.md",
     "Health & Medicine/Allergy/003 - University of Cambridge.md",
@@ -217,12 +228,7 @@
     "Health & Medicine/Cold & Flu",
     "Health & Medicine/Cancer",
     "001 Ilmu Terapan dan Teknik/001 Publikasi yang Ditinjau Sejawat/001 - University of California.md",
-    "Health & Medicine/Allergy",
-    "Health & Medicine",
     "001 Ilmu Terapan dan Teknik/Tanpa judul.md",
-    "001 Ilmu Terapan dan Teknik/001 Publikasi yang Ditinjau Sejawat",
-    "Tanpa judul/Tanpa judul",
-    "001 Ilmu Terapan dan Teknik",
     "001 APPLIED SCIENCES AND ENGINEERING/006 - Shenyang Agricultural University.md",
     "001 APPLIED SCIENCES AND ENGINEERING/005 - Shenyang Agricultural University.md",
     "001 APPLIED SCIENCES AND ENGINEERING/004 - Shenyang Agricultural University.md",
@@ -235,7 +241,6 @@
     "01 Space_&_Time/Astronomy/Black Holes/005 Ehime University.md",
     "01 Space_&_Time/Astronomy/Black Holes/004 Royal Astronomical Society.md",
     "01 Space_&_Time/Astronomy/Black Holes/002 UCD Research & Innovation.md",
-    "01 Space_&_Time/Astronomy/Black Holes/003 University of Chicago.md",
-    "01 Space_&_Time/Astronomy/Black Holes/001 University of California - Irvine.md"
+    "01 Space_&_Time/Astronomy/Black Holes/003 University of Chicago.md"
   ]
 }

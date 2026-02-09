@@ -487,9 +487,82 @@
             "timeKey": "07:10",
             "w": -641,
             "c": -4866
+          },
+          {
+            "timeKey": "07:15",
+            "w": 641,
+            "c": 4866
           }
         ],
         "id": 15
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "001 Inbox/002 - WUM.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:10",
+            "w": 93,
+            "c": 711
+          },
+          {
+            "timeKey": "12:25",
+            "w": 83,
+            "c": 584
+          },
+          {
+            "timeKey": "12:30",
+            "w": 113,
+            "c": 873
+          },
+          {
+            "timeKey": "12:35",
+            "w": 142,
+            "c": 1105
+          }
+        ],
+        "id": 16
+      },
+      {
+        "date": "2026-02-09",
+        "filePath": "001 Inbox/003 - UOC.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:30",
+            "w": 24,
+            "c": 180
+          },
+          {
+            "timeKey": "16:35",
+            "w": 127,
+            "c": 962
+          },
+          {
+            "timeKey": "16:40",
+            "w": 152,
+            "c": 1158
+          },
+          {
+            "timeKey": "16:45",
+            "w": 123,
+            "c": 1009
+          },
+          {
+            "timeKey": "16:50",
+            "w": 70,
+            "c": 546
+          }
+        ],
+        "id": 17
       }
     ]
   }
