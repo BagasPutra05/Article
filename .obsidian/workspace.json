@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "aee27f6efc34a830",
+    "type": "split",
+    "children": [
+      {
+        "id": "024362cc1d67a625",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49dec0498bd5d14e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Inbox/001 - MSKCC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "001 - MSKCC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc42a787684e0ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f88d89d29d5e54d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78261aa3039724ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Penjelajah berkas"
+            }
+          },
+          {
+            "id": "b01afc364e33746b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Penelusuran"
+            }
+          },
+          {
+            "id": "cd90f9a1778838bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Penanda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "d1e2e981583201f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc79fb29f800b4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a49543a95de03a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlink"
+            }
+          },
+          {
+            "id": "c10758a288e1c219",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Tautan Keluar"
+            }
+          },
+          {
+            "id": "f8b2cf8126b25f14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0bb18594e2959a56",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Semua properti"
+            }
+          },
+          {
+            "id": "e1e3283645e75ca3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Kerangka"
+            }
+          },
+          {
+            "id": "5abc172131ef3258",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "15d87edd0ac884d6",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Buka peralih cepat": false,
+      "graph:Buka tampilan grafik": false,
+      "canvas:Buat kanvas baru": false,
+      "daily-notes:Buka catatan hari ini": false,
+      "templates:Masukkan template": false,
+      "command-palette:Buka palet perintah": false,
+      "bases:Create new base": false,
+      "iconic:Buka buku aturan": false,
+      "obsidian-git:Open Git source control": false,
+      "keep-the-rhythm:Word Count Stats": false
+    }
+  },
+  "active": "78261aa3039724ff",
+  "lastOpenFiles": [
+    "002 Artikel",
+    "001 Inbox/001 - MSKCC.md",
+    "001 Inbox",
+    "001 Inbox/001 - Bagaimana hutan saling berkomunikasi.md",
+    "Health & Medicine/Allergy/003 - University of Cambridge.md",
+    "Tanpa judul.md",
+    "Health & Medicine/Allergy",
+    "Health & Medicine/Allergy/002 - WashU Medicine.md",
+    "Health & Medicine/Allergy/001 - Memorial Sloan Kettering Cancer Center.md",
+    "Health & Medicine/Cold & Flu",
+    "Health & Medicine/Cancer",
+    "001 Ilmu Terapan dan Teknik/001 Publikasi yang Ditinjau Sejawat/001 - University of California.md",
+    "Health & Medicine/Allergy",
+    "Health & Medicine",
+    "001 Ilmu Terapan dan Teknik/Tanpa judul.md",
+    "001 Ilmu Terapan dan Teknik/001 Publikasi yang Ditinjau Sejawat",
+    "Tanpa judul/Tanpa judul",
+    "001 Ilmu Terapan dan Teknik",
+    "001 APPLIED SCIENCES AND ENGINEERING/006 - Shenyang Agricultural University.md",
+    "001 APPLIED SCIENCES AND ENGINEERING/005 - Shenyang Agricultural University.md",
+    "001 APPLIED SCIENCES AND ENGINEERING/004 - Shenyang Agricultural University.md",
+    "2026-02-05.md",
+    "001 APPLIED SCIENCES AND ENGINEERING/003 - Kobe University.md",
+    "001 APPLIED SCIENCES AND ENGINEERING/Energi Terbarukan & Penyimpanan Daya/Tanpa judul.md",
+    "001 APPLIED SCIENCES AND ENGINEERING/001 - Edith Cowan University.md",
+    "01 Space_&_Time/Astronomy/Black Holes/006 Cardiff University.md",
+    "01 Space_&_Time/Astronomy/Black Holes/007 European Space Agency.md",
+    "01 Space_&_Time/Astronomy/Black Holes/005 Ehime University.md",
+    "01 Space_&_Time/Astronomy/Black Holes/004 Royal Astronomical Society.md",
+    "01 Space_&_Time/Astronomy/Black Holes/002 UCD Research & Innovation.md",
+    "01 Space_&_Time/Astronomy/Black Holes/003 University of Chicago.md",
+    "01 Space_&_Time/Astronomy/Black Holes/001 University of California - Irvine.md"
+  ]
+}

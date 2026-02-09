@@ -1,0 +1,13 @@
+{
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "Notebook Backgrounds",
+    "headers"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "textFontFamily": "BBC Reith Serif",
+  "interfaceFontFamily": "BBC Reith Serif",
+  "baseFontSize": 16,
+  "nativeMenus": false
+}
