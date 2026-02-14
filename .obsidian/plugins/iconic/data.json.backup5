@@ -29,7 +29,26 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "001 Inbox": {
+      "icon": "lucide-mail",
+      "unsynced": [
+        "190e1582b8f7196f"
+      ]
+    },
+    "002 Artikel": {
+      "icon": "lucide-newspaper",
+      "unsynced": [
+        "190e1582b8f7196f"
+      ]
+    },
+    "002 Artikel/Kesehatan": {
+      "icon": "lucide-heart-plus",
+      "unsynced": [
+        "190e1582b8f7196f"
+      ]
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

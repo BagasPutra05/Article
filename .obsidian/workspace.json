@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81487bb55eaed776",
+        "id": "0293232397db8523",
         "type": "tabs",
         "children": [
           {
-            "id": "f46d77e3d1439c4b",
+            "id": "eae76981ef71fcac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Inbox/001 - AHA.md",
+                "file": "001 Artikel/001 Mind & Brain/001 ADD & ADHD/001 - MOAMATDEKB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 - AHA"
+              "title": "001 - MOAMATDEKB"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298,
-    "collapsed": true
+    "width": 298
   },
   "right": {
     "id": "d1e2e981583201f4",
@@ -184,11 +183,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 307,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +204,20 @@
       "keep-the-rhythm:Word Count Stats": false
     }
   },
-  "active": "5abc172131ef3258",
+  "active": "eae76981ef71fcac",
   "lastOpenFiles": [
+    "001 Artikel/001 Mind & Brain/001 ADD & ADHD/002 - PMRKYMADBJK.md",
+    "001 Artikel/001 Mind & Brain/001 ADD & ADHD/003 - BGDDMMPGAA.md",
+    "001 Artikel/001 Mind & Brain/001 ADD & ADHD/001 - MOAMATDEKB.md",
+    "TEMPLATE.md",
+    "001 Artikel/001 Mind & Brain/001 ADD & ADHD",
+    "001 Artikel/001 Mind & Brain",
+    "001 Artikel/001 Kesehatan/001 Alergi/001 - Kamar Tidur Bebas Bersin.md",
+    "001 Artikel/001 Kesehatan/001 Alergi",
+    "001 Artikel/001 Kesehatan",
+    "001 Artikel/Tanpa judul.md",
+    "001 Artikel/001 Binatang/002 Inbox/001 - MDKSMDBPDM.md",
+    "001 Artikel/001 Binatang/002 Inbox",
     "002 Artikel/Kesehatan/Nutrisi/001 - UOC.md",
     "002 Artikel/Kesehatan/Demensia/001 - LU.md",
     "002 Artikel/Kesehatan/Cold&Flu/001 - WUM.md",
@@ -217,16 +229,10 @@
     "002 Artikel/Kesehatan/Cold&Flu",
     "002 Artikel/Kesehatan/Cancer",
     "002 Artikel/Kesehatan",
-    "002 Artikel",
-    "001 Inbox",
     "001 Inbox/001 - Bagaimana hutan saling berkomunikasi.md",
     "Health & Medicine/Allergy/003 - University of Cambridge.md",
-    "Tanpa judul.md",
-    "Health & Medicine/Allergy",
     "Health & Medicine/Allergy/002 - WashU Medicine.md",
     "Health & Medicine/Allergy/001 - Memorial Sloan Kettering Cancer Center.md",
-    "Health & Medicine/Cold & Flu",
-    "Health & Medicine/Cancer",
     "001 Ilmu Terapan dan Teknik/001 Publikasi yang Ditinjau Sejawat/001 - University of California.md",
     "001 Ilmu Terapan dan Teknik/Tanpa judul.md",
     "001 APPLIED SCIENCES AND ENGINEERING/006 - Shenyang Agricultural University.md",
@@ -235,12 +241,6 @@
     "2026-02-05.md",
     "001 APPLIED SCIENCES AND ENGINEERING/003 - Kobe University.md",
     "001 APPLIED SCIENCES AND ENGINEERING/Energi Terbarukan & Penyimpanan Daya/Tanpa judul.md",
-    "001 APPLIED SCIENCES AND ENGINEERING/001 - Edith Cowan University.md",
-    "01 Space_&_Time/Astronomy/Black Holes/006 Cardiff University.md",
-    "01 Space_&_Time/Astronomy/Black Holes/007 European Space Agency.md",
-    "01 Space_&_Time/Astronomy/Black Holes/005 Ehime University.md",
-    "01 Space_&_Time/Astronomy/Black Holes/004 Royal Astronomical Society.md",
-    "01 Space_&_Time/Astronomy/Black Holes/002 UCD Research & Innovation.md",
-    "01 Space_&_Time/Astronomy/Black Holes/003 University of Chicago.md"
+    "001 APPLIED SCIENCES AND ENGINEERING/001 - Edith Cowan University.md"
   ]
 }

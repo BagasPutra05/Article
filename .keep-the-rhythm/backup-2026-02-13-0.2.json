@@ -71,8 +71,7 @@
       "2026-02-05",
       "2026-02-09",
       "2026-02-10",
-      "2026-02-11",
-      "2026-02-14"
+      "2026-02-11"
     ],
     "dailyActivity": [
       {
@@ -887,6 +886,20 @@
       },
       {
         "date": "2026-02-13",
+        "filePath": "001 Artikel/001 Kesehatan/001 Alergi/001 - Kamar Tidur Bebas Bersin.md",
+        "wordCountStart": 1167,
+        "charCountStart": 8428,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1167,
+            "c": -8428
+          }
+        ],
+        "id": 30
+      },
+      {
+        "date": "2026-02-13",
         "filePath": "TEMPLATE.md",
         "wordCountStart": 0,
         "charCountStart": 0,
@@ -906,7 +919,7 @@
       },
       {
         "date": "2026-02-13",
-        "filePath": "001 Artikel/001 Mind & Brain/001 ADD & ADHD/001 - MOAMATDEKB.md",
+        "filePath": "001 Artikel/001 Mind & Brain/001 ADD & ADHD/001 - Neuro-Inclusion 2026.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -937,95 +950,6 @@
           }
         ],
         "id": 32
-      },
-      {
-        "date": "2026-02-13",
-        "filePath": "001 Artikel/001 Mind & Brain/001 ADD & ADHD/002 - PMRKYMADBJK.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "17:20",
-            "w": 124,
-            "c": 904
-          },
-          {
-            "timeKey": "17:25",
-            "w": 154,
-            "c": 1139
-          },
-          {
-            "timeKey": "17:30",
-            "w": 110,
-            "c": 860
-          },
-          {
-            "timeKey": "17:35",
-            "w": 169,
-            "c": 1248
-          },
-          {
-            "timeKey": "17:40",
-            "w": 77,
-            "c": 548
-          }
-        ],
-        "id": 33
-      },
-      {
-        "date": "2026-02-14",
-        "filePath": "001 Artikel/001 Mind & Brain/001 ADD & ADHD/003 - BGDDMMPGAA.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "06:30",
-            "w": 16,
-            "c": 122
-          },
-          {
-            "timeKey": "06:35",
-            "w": 136,
-            "c": 1109
-          },
-          {
-            "timeKey": "06:40",
-            "w": 155,
-            "c": 1201
-          },
-          {
-            "timeKey": "06:45",
-            "w": 163,
-            "c": 1289
-          },
-          {
-            "timeKey": "06:50",
-            "w": 42,
-            "c": 316
-          },
-          {
-            "timeKey": "06:55",
-            "w": 114,
-            "c": 893
-          }
-        ],
-        "id": 34
-      },
-      {
-        "date": "2026-02-14",
-        "filePath": "001 Artikel/001 Mind & Brain/001 ADD & ADHD/002 - PMRKYMADBJK.md",
-        "wordCountStart": 634,
-        "charCountStart": 4699,
-        "changes": [],
-        "id": 35
-      },
-      {
-        "date": "2026-02-14",
-        "filePath": "001 Artikel/001 Mind & Brain/001 ADD & ADHD/001 - MOAMATDEKB.md",
-        "wordCountStart": 588,
-        "charCountStart": 4370,
-        "changes": [],
-        "id": 36
       }
     ]
   }
