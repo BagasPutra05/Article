@@ -1,0 +1,18 @@
+---
+aliases:
+  - "pencakar langit di atas tanah: rahasia sistem ventilasi pada rayap gunduk"
+date: 2026-02-21
+---
+Di padang savana Afrika yang terik atau lahan tropis Asia yang lembap, berdiri struktur-struktur menjulang yang oleh para ilmuwan dijuluki "pencakar langit" alami. Dibangun oleh rayap dari spesies *Macrotermes*, gundukan ini dapat mencapai ketinggian 5 hingga 12 meter - proporsi yang setara dengan gedung pencakar langit setinggi satu kilo jika dibandingkan dengan ukuran tubuh penghuninya. Selama bertahun-tahun, manusia mengira gundukan itu adalah sarang tempat tinggal rayap. Namun, penelitian mutakhir mengungkapkan bahwa bangunan megah tersebut sama sekali bukan "rumah", melainkan sistem ventilasi raksasa yang canggih; sebuah infrastruktur teknik yang menjaga koloni di bawah tanah tetap hidup tanpa menggunakan satu watt pun energi listrik.
+
+## Bukan rumah, Melainkan "Paru-Paru" Bawah Tanah
+Paradoks utama yang pertama kali ditemukan para ilmuwan adalah bahwa rayap tidak hidup di dalam gundukan yang mereka bangun dengan susah payah. Koloni yang terdiri dari 1-2 juta individu justru menghabiskan hidup mereka di sarang bawah tanah. Lalu, apa fungsi gundukan setinggi lima meter tersebut? Jawabannya terletak pada kebutuhan fisiologis yang krusial: ventilasi.
+
+Di dalam kedalaman tanah, ratu rayap, para pekerja, serta "kebun" jamur yang mereka budidayakan menghasilkan panas dan karbon dioksida (CO2) dalam jumlah luar biasa. Sebuah koloni dengan berat 20 kilo membutuhkan sekitar 240 liter oksigen per hari. Tanpa sirkulasi yang memadai, suasana bawah tanah akan berubah menjadi ruang gas beracun yang mematikan. Di sinilah gundukan berperan sebagai organ pernapasan. Struktur ini bekerja seperti paru-paru raksasa yang "bernapas" sekali dalam siklus 24 jam, memompa udara segar masuk dan menyedot udara kotor keluar.
+
+## Arsitektur Ventilasi: Cerobong dan Pori Mikroskopis
+Keajaiban rekayasa ini terletak pada desain arsitekturnya yang berlapis. Pertama, terdapat **sistem makro**: cerobong utama dan lorong-lorong vertikal yang menghubungkan ruang bawah tanah dengan atmosfer luar. Pada siang hari yang panas, dinding gundukan memanas: Udara panas di dalam cerobong utama naik dan keluar layaknya efek cerobong asap, menciptakan tekanan rendah di dasar gundukan. Akibatnya, udara segar yang lebih dingin tersedot masuk  melalui pori-pori dinding dan lubang di dasar gundukan. Pada malam hari, proses ini berbalik arah untuk menjaga agar sarang tetap hangat.
+
+Kedua, yang lebih revolusioner adalah **sistem makro**. Penelitian terbaru yang dipublikasikan di jurnal *Science Advances* menggunakan teknologi tomografi sinar-X (X-ray tomography) untuk membedah dinding gundukan. Hasilnya mengejutkan: dinding tersebut ternyata tidak padat, melainkan berstruktur ganda. Terdapat jaringan pori-pori mikroskopis yang saling terhubung, mirip dengan struktur busa atau filter udara.
+
+Pori-pori ini memiliki fungsi ganda yang cerdas. Di satu sisi, mereka bertindak sebagai **penyaring dan jalur keluar masuk gas**. Simulasi aliran fluida menunjukkan bahwa CO2 dari sarang bawah tanah berdifusi keluar melalui pori-pori ini, sementara oksigen dari luar masuk ke dalam sistem sirkulasi. Di sisi lain, pori-pori ini berperan sebagai **isolator termal**. Udara yang terperangkap di dalam rongga mikro dinding bekerja persis seperti udara dalam jendela kaca ganda pada bangunan modern, yaitu menghambat rambatan panas dari luar sehingga suhu didalam ruang ventilasi tetap konstan.
